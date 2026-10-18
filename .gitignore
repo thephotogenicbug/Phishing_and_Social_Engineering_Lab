@@ -1,0 +1,7 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep reports and screenshots versioned; do not add secrets or real credentials.
